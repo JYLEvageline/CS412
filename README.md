@@ -10,16 +10,16 @@ Open command line
 git clone https://github.com/JYLEvageline/CS412.git
 
 # Running the tests
-If you want to run the whole project, please type:
+If you want to run the whole project, please type the following in command line:
 '''
 python __init__.py
 '''
 
-If you want to know how the data processing works, please type:
-'''python
+If you want to know how the data processing works, please run:
+```python
 from read import data_process
 data_process('responses.csv')
-'''
+```
 It would clean the data and create the training set, test set and validation set.
 
 If you want to know how to train my model, please type:
