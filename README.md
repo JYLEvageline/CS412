@@ -7,7 +7,9 @@ library: numpy, pandas, collections, sklearn, matplotlib, pickle
 
 ## Installing
 Open command line
+```
 git clone https://github.com/JYLEvageline/CS412.git
+```
 
 # Running the tests
 If you want to run the whole project, please type the following in command line:
