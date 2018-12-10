@@ -30,12 +30,14 @@ my_model()
 It would train the model, including feature selection and hyperparameter selection. Then it would save the model just trained.
 
 If you want to know how to train baseline, please type:
-```pythonfrom baseline import baseline_models
+```python
+from baseline import baseline_models
 baseline_models()
 ```
 It would train the baseline models, including hyperparameter selection. Then it would save the models just trained.
 
 Finally, if you want test my model, please type:
-```pythonfrom __init__ import testmy
+```python
+from __init__ import testmy
 testmy()
 ```
